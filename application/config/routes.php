@@ -54,6 +54,7 @@ $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
 // routing sub-dir
 $route['home'] = "home";
+$route['info'] = "info";
 $route['home/(:any)'] = "home/$1";
 
 $route['login'] = "login/login";
