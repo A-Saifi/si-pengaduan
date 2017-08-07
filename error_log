@@ -1,1 +1,2 @@
 [23-Jul-2017 23:52:20 UTC] PHP Fatal error:  Call to a member function pengaduan_perbulan() on null in /home/lapk7357/public_html/application/views/_layout/frontend/adminlte/footer.php on line 61
+haha
